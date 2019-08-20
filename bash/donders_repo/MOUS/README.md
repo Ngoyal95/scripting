@@ -1,4 +1,5 @@
 *** How to download the Mother of All Unification Studies (MOUS) dataset from Donders Instutute Repository ***
+WebDAV URL for this dataset: https://webdav.data.donders.ru.nl:443/dccn/DSC_3011020.09_236:v1
 
 - There are two files you need: folders.txt and files.txt
 - To download the files onto Biowulf, you must use a Swarm
